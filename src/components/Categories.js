@@ -7,9 +7,9 @@ class Categories extends Component {
 
 
     render() {
-        const foodCategory = this.props.dummyData.filter(d => d.category=="food")
-        const salaryCategory = this.props.dummyData.filter(d => d.category=="Salary")
-        const entertainmentCategory = this.props.dummyData.filter(d => d.category=="Entertainment")
+        const foodCategory = this.props.dummyData.filter(d => d.category==="food")
+        const salaryCategory = this.props.dummyData.filter(d => d.category==="Salary")
+        const entertainmentCategory = this.props.dummyData.filter(d => d.category==="Entertainment")
         let foodBalance = 0;
         for (let d of foodCategory) {
             foodBalance += d.amount
@@ -23,7 +23,6 @@ class Categories extends Component {
             entertainmentBalance += d.amount
         }
         
-       
         return (
             <div className="categories">
                 <div className="Food">Food: ${foodBalance}</div>

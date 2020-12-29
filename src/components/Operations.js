@@ -2,7 +2,6 @@ import '../styles/operations.css';
 import { Component } from 'react';
 
 class Operations extends Component {
-
     constructor() {
         super()
         this.state = {
@@ -20,7 +19,6 @@ class Operations extends Component {
 
     deposit = () => {
         this.props.deposit(parseInt(this.state.amount), this.state.vendor, this.state.category)
-
     }
 
     withdraw = () => {
@@ -30,8 +28,6 @@ class Operations extends Component {
     render() {
         return (
             <div>
-               
-
                 <div id="popup1" class="overlay">
                     <div class="popup">
                         <a class="close" href="#">&times;</a>
@@ -55,16 +51,9 @@ class Operations extends Component {
                     <a class="button" href="#popup1"><button type="button" className="withdraw" onClick={this.withdraw}>Withdraw</button></a>
                     </div>
                 </form>
-
-
-
             </div>
-
-
         )
     }
-
-
 }
 
 export default Operations;
