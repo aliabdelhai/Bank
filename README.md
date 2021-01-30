@@ -42,6 +42,3 @@
 
 ---
 
-### Screenshots
-
-## <p align="center"><img src="LINK" width="300" /> <img src="LINK" width="300"> </p>
