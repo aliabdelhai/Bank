@@ -14,9 +14,9 @@ A self- inserted transactions app. This app will allow you to track exactly the 
 
 2. run `npm install` in your terminal
 
-3. run `npm start`
+3. run `node server.js`
 
-4. open `http://localhost:3000` in your browser.
+4. run `npm start`
 
 ---
 
