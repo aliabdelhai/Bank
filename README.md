@@ -37,20 +37,15 @@ A self- inserted transactions app. This app will allow you to track exactly the 
 
 - move component to functions
 - Manage Users (login and register)
-- handle errors on server side
-- add snackBars on preforming operations
 - a better categories view and transactions
 - mobile view
-- add description to readme-file
 - upload to heroku
 
 ---
 
  ### Transactions Page: ###
   <img alt="Transactions Page" src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1612435057/Screen_Shot_2021-02-04_at_12.36.49_PM_tfwezy.png" height="400"> 
-In this page you will be able to see all of the transactions you inserted. Deposits will appear in green, while withdraws will appear in red.
-You can see your balance in every page in the app. When your balace will be low (under $500), its color will change to red.
- 
+In this page you will be able to see all of the transactions you inserted.
   ### Ctegories Page: ###
    <img alt="Categories1 Page" src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1612435056/Screen_Shot_2021-02-04_at_12.37.19_PM_hwvvpi.png" height="400"> 
 
