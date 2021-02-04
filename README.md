@@ -42,3 +42,11 @@
 
 ---
 
+### Screenshots
+
+## <p align="center"><img src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1612435057/Screen_Shot_2021-02-04_at_12.36.37_PM_ftxsrb.png" width="300" /> </p>
+
+## <p align="center"><img src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1612435057/Screen_Shot_2021-02-04_at_12.36.49_PM_tfwezy.png" width="300" /> </p>
+
+## <p align="center"><img src="https://res.cloudinary.com/dnngdbnuq/image/upload/v1612435056/Screen_Shot_2021-02-04_at_12.37.19_PM_hwvvpi.png" width="300" /> </p>
+
